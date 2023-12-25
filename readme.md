@@ -6,8 +6,7 @@ This project serves as a simple demonstration of web scraping in React Native, s
 
 ### Current Status
 
-As of my last update, there is an ongoing issue on iOS related to saving e-statements in PDF format. I believe a bit more time is required to address this issue effectively. Else it seems functional to some extent.
-
+There is an ongoing issue on iOS related to downloading PDF.
 
 ### Purpose
 
